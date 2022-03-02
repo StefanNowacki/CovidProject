@@ -2,7 +2,7 @@
                                                                       
 In this project you can see varius data about covid in countires.
 
-  -percentage of population got covid
+  - percentage of population got covid
   - highest infection rate by country
   - deaths by country, continent and much more!
 
