@@ -1,4 +1,4 @@
-                                                                      CovidProject
+                                                CovidProject
                                                                       
 In this project you can see varius data about covid in countires.
 
